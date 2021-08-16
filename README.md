@@ -1,4 +1,4 @@
-Checkout the dictionary by clicking on this link : https://react-dictionary-ayush.netlify.app/
+Checkout the dictionary by clicking on this link : https://react-pwa-dictionary.netlify.app/
 
 # Getting Started with Create React App
 
